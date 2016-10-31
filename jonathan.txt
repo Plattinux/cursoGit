@@ -1,2 +1,2 @@
-Me gusta Git
+Me gusta Git generando el conflicto
 
