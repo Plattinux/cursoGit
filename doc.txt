@@ -1,1 +1,2 @@
 cursos de git 31 de octubre 2016
+  parte del conflicto
